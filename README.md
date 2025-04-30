@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Naeem Ahmed and I'm an aspiring Backend Developer from Indore :)</h1>
+<h1 align="center">Hi 👋! My name is Naeem Ahmed and I'm an aspiring Frontend Developer from Indore :)</h1>
 
 ###
 
